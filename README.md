@@ -49,5 +49,10 @@ iOS 15+
 SwiftUI
 Swift 5.7+
 
+## 🎬 Preview
+
+![WaveInputView Demo](Assets/preview.gif)
+
+
 MIT © TEMIMI-MOHAMED
 
